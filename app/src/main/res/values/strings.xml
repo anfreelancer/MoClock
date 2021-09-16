@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoClock Smart</string>
+    <string name="buy" translatable="false">BUY</string>
+    <string name="premium" translatable="false">Premium</string>
+    <string name="channel_namestop">Stopwatch</string>
+    <string name="channel_descriptionstop">This is the stopwatch MoClock uses, disabling this will disable the stopwatch from being controlled and visible outside of the app.</string>
+</resources>
